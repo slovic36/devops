@@ -14,3 +14,5 @@ git config --global user.name "slovic36"
 
 # Configure email ID
 git config --global user.email "slovic36@gmail.com"
+
+https://github.com/slovic36/devops.git
