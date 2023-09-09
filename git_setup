@@ -1,0 +1,16 @@
+Git Hub Account Details:
+
+username:  slovic36
+password:  cnw84Wed$36
+
+repo:  slovic36/devops
+
+Token:  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
+
+
+
+# Configure username to connect to Git
+git config --global user.name "slovic36"
+
+# Configure email ID
+git config --global user.email "slovic36@gmail.com"
